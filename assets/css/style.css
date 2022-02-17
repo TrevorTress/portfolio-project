@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+      
+  }
+
+  /*HEADER-NAV STYLING*/
+header {
+    padding: 20px 20px;
+    background-color: rgb(59, 57, 57);
+    display: block;
+    justify-content: space-between;
+    margin: 0;
+}
+
+header h1 {
+    font-weight: bold;
+    color: azure;
+    background-color: rgb(59, 57, 57);
+    font-size: 50px;
+    margin: 0;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+header a {
+    text-decoration: none;
+    color: azure;
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    list-style: none;
+    align-items: center;
+}
+
+header nav ul li a {
+    padding: 0px;
+}
+    /*HEADER-NAV STYLING*/
+
+    /*HERO STYLING*/
+.hero {
+    display: flex;
+    justify-content: center;
+    background-color: crimson;
+}
+
+.hero img {
+    padding: 5px;
+    max-width: 40%;
+}
+
+.hero h2 {
+    
+}
+
+.hero div {
+    padding: 5px;
+    line-height: 2.5;
+    font-size: 24px;
+}
+
+.work {
+    background-color: darkseagreen;
+    
+}
+    /*HERO STYLING*/
