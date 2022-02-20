@@ -1,1 +1,0 @@
-![ScreenShot](..assets/images/screenshot.png)
