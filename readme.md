@@ -1,1 +1,1 @@
-![ScreenShot](../images/screenshot.png)
+![ScreenShot](..assets/images/screenshot.png)
