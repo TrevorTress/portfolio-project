@@ -90,7 +90,7 @@ header nav ul li a {
     width: 50%;
     margin: 0 auto;
 }
-
+/*HERO STYLING*/
 
 /*WORK STYLING*/
 .work {
@@ -166,7 +166,9 @@ header nav ul li a {
     padding: 10px;
     font-weight: bolder;
     }
+/*WORK STYLING*/
 
+/*MEDIA STYLING*/
     @media screen and (max-width: 1282px) {
         .hero {
             display: block;
